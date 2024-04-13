@@ -1,7 +1,7 @@
-![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3d6dnlkcDUycmcyZ2R3eHZycmpoZGIzYWkyMmczemF2bHp1czhzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y2gvL2DmJonVtyt8UN/giphy.gif)
+![MasterHead](https://cdn.discordapp.com/attachments/1065143032510423140/1225527759091007570/giphy.gif?ex=662aaf2a&is=66183a2a&hm=768f3c8073b3631b51fc302f3ff1476518a3746b99590e930160f2c5ae77a5d3&)
 <h1 align="center">Hi 👋, I'm Daito</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3d6dnlkcDUycmcyZ2R3eHZycmpoZGIzYWkyMmczemF2bHp1czhzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y2gvL2DmJonVtyt8UN/giphy.gif">
+<img align="right" alt="" width="400" src="">
 
 - 🔭 I’m currently working on **GeloGpt Mobile(FLUTTER)**
 
