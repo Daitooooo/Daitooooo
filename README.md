@@ -10,12 +10,12 @@
 - 📫 How to reach me **xdaiyto.exe@gmail.com**
 
 - 💬 A little about me 
-  ```python
-  daito = {
-  "pronouns": ["he", "him"],
-  "code": ["Java", "Flutter", "Python", "JavaScript", "C#", "Dart"],
-  "tools": ["GitHub", "Android Studio", "Visual Studio", "Unity"],
-  "challenge": "I am Learning Flutter"}
+  ```const Daito = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Prisma, Mysql , Redux, Node, Jira],
+ challenge: "I am taking a course in ReactJS"
+}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
