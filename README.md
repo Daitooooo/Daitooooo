@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.discordapp.com/attachments/1065143032510423140/1225527759091007570/giphy.gif?ex=662aaf2a&is=66183a2a&hm=768f3c8073b3631b51fc302f3ff1476518a3746b99590e930160f2c5ae77a5d3&)
+![MasterHead](https://cdn.discordapp.com/attachments/1065143032510423140/1225528070937514135/wallpaperflare.com_wallpaper1.jpg?ex=662aaf75&is=66183a75&hm=b6062f94cb7b66f676f267484848f9f74d0eab3b74e9931e1f1740caa357121c&)
 <h1 align="center">Hi 👋, I'm Daito</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="" width="400" src="">
