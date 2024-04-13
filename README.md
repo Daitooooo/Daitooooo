@@ -10,7 +10,7 @@
 - 📫 How to reach me **xdaiyto.exe@gmail.com**
 
 - 💬 A little about me 
-  ```const Daito = {
+  ```javascript const Daito = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [React, Prisma, Mysql , Redux, Node, Jira],
