@@ -10,11 +10,12 @@
 - 📫 How to reach me **xdaiyto.exe@gmail.com**
 
 - 💬 A little about me 
-  ```javascript const Daito = {
+  ```javascript 
+const Daito = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Prisma, Mysql , Redux, Node, Jira],
- challenge: "I am taking a course in ReactJS"
+  code: [Javascript, C#, Python, Java],
+  tools: [NextJs, Prisma, Firebase , Unity, Node, Jira],
+ challenge: "I am learning flutter"
 }
 
 <h3 align="left">Connect with me:</h3>
