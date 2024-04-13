@@ -9,14 +9,14 @@
 
 - 📫 How to reach me **xdaiyto.exe@gmail.com**
 
-- 💬 A little about me 
-```javascript
-const Daito = {
+- 💬 A little about me
+- ```javascript
+  const Daito = {
   pronouns: "he" | "him",
   code: [Javascript, C#, Python, Java],
-  tools: [NextJs, Prisma, Firebase , Unity, Node, Jira],
- challenge: "I am learning flutter"
-}
+  tools: [NextJs, Prisma, Firebase, Unity, Node, Jira],
+  challenge: "I am learning flutter"
+  }
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
