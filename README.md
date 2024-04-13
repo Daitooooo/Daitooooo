@@ -10,7 +10,7 @@
 - 📫 How to reach me **xdaiyto.exe@gmail.com**
 
 - 💬 A little about me 
-  ``python
+  ```python
   daito = {
   "pronouns": ["he", "him"],
   "code": ["Java", "Flutter", "Python", "JavaScript", "C#", "Dart"],
