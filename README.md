@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.discordapp.com/attachments/1065143032510423140/1225528070937514135/wallpaperflare.com_wallpaper1.jpg?ex=662aaf75&is=66183a75&hm=b6062f94cb7b66f676f267484848f9f74d0eab3b74e9931e1f1740caa357121c&)
+![MasterHead]([https://cdn.discordapp.com/attachments/1065143032510423140/1225528070937514135/wallpaperflare.com_wallpaper1.jpg?ex=662aaf75&is=66183a75&hm=b6062f94cb7b66f676f267484848f9f74d0eab3b74e9931e1f1740caa357121c&](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdvcTIwa29lMGRzMGs2OGU3eWZ3MWtqY2lhcTJlNzFraHdlMDF4dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/200.webp))
 <h1 align="center">Hi 👋, I'm Daito</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="" width="400" src="">
@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Flutter, React**
 - 📫 How to reach me **xdaiyto.exe@gmail.com**
 - 💬 A little about me
-- ```javascript
+  ```javascript
   const Daito = {
   pronouns: "he" | "him",
   code: [Javascript, C#, Python, Java],
