@@ -56,11 +56,11 @@ const Daito = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daito&show_icons=true&theme=tokyonight" alt="daito's GitHub stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xdaiyto&show_icons=true&theme=tokyonight" alt="daito's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daito&theme=tokyonight" alt="daito's streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xdaiyto&theme=tokyonight" alt="daito's streak" />
 </p>
 
 ---
