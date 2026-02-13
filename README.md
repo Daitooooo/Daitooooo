@@ -30,38 +30,13 @@ const Daito = {
 }
 ```
 
-<h3 align="left">🤝 Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/xdaiyto" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xdaiyto" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/daito.js" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daito.js" height="30" width="40" />
-    </a>
-    <a href="https://discord.gg/daito.dev" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="daito.dev" height="30" width="40" />
-    </a>
-</p>
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">🛠️ Technologies & Tools</h2></summary>
   </ul>
 </div>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,bitbucket,cs,dart,discord,bots,discordjs,figma,firebase,flutter,git,github,java,js,mysql,nodejs,npm,postman,react,sublime,unity,unreal&perline=11" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xdaiyto&show_icons=true&theme=tokyonight" alt="daito's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xdaiyto&theme=tokyonight" alt="daito's streak" />
-</p>
-
----
-⭐️ From [@daito](https://github.com/daito)
